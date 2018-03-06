@@ -29,7 +29,7 @@ abstract class SciFiRobot //abstract class
 public void call()
     {
         //definition
-        System.out.println("Calling...");
+        System.out.println("Calling me...");
     }
 //declaration
 public abstract void cook();
@@ -53,7 +53,7 @@ public void dance()
 public void fight()
     {
         //definition
-        System.out.println("Let's fight");
+        System.out.println("Let's fight with enemy");
     }
 public void clean()
     {
