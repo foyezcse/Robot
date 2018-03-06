@@ -41,7 +41,7 @@ abstract class KhalekRobot extends SciFiRobot{
   public void cook()
     {
         //definition
-        System.out.println("Cooking...");
+        System.out.println("It's Cooking...");
     }  
 }
 class SamiRobot extends KhalekRobot{
